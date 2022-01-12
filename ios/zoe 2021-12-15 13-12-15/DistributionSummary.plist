@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Mis Robots.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6C031B0EACBD6E18D90EBCA822E4D066990742C8</string>
+				<key>dateExpires</key>
+				<string>06/12/2022</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6C031B0EACBD6E18D90EBCA822E4D066990742C8</string>
+						<key>dateExpires</key>
+						<string>06/12/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4B3VYJR7V6</string>
+						<key>name</key>
+						<string>Axel Corbera</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6C031B0EACBD6E18D90EBCA822E4D066990742C8</string>
+						<key>dateExpires</key>
+						<string>06/12/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4B3VYJR7V6</string>
+						<key>name</key>
+						<string>Axel Corbera</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6C031B0EACBD6E18D90EBCA822E4D066990742C8</string>
+						<key>dateExpires</key>
+						<string>06/12/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>shared_preferences_ios.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4B3VYJR7V6</string>
+						<key>name</key>
+						<string>Axel Corbera</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4B3VYJR7V6.com.CorberaApp.zoe</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4B3VYJR7V6</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>4B3VYJR7V6.com.CorberaApp.zoe</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9ceca1cd-c451-4053-add9-733be4b8835c</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.CorberaApp.zoe</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4B3VYJR7V6</string>
+				<key>name</key>
+				<string>Axel Corbera</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
